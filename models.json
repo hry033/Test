@@ -1,0 +1,23 @@
+[
+  {
+    "id": "model_001",
+    "name": "测试模型A",
+    "type": "类型1",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hry033/Test/refs/heads/main/119630974_p0.jpg",
+    "addressableKey": "Assets/5.fbx"
+  },
+  {
+    "id": "model_002",
+    "name": "测试模型B",
+    "type": "类型2",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hry033/Test/refs/heads/main/119630974_p0.jpg",
+    "addressableKey": "Assets/5.fbx"
+  },
+  {
+    "id": "model_003",
+    "name": "测试模型C",
+    "type": "类型1",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hry033/Test/refs/heads/main/119630974_p0.jpg",
+    "addressableKey": "Assets/5.fbx"
+  }
+]
