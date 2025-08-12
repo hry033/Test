@@ -4,23 +4,24 @@
     "name": "测试模型A",
     "type": "类型1",
     "thumbnailUrl": "https://raw.githubusercontent.com/hry033/Test/refs/heads/main/12d3b599a9014c086fbae2e81d7b020879f4f4f6.jpg",
-    "addressableKey": "Assets/5.fbx"
+    "addressableKey": "5"
   },
   {
     "id": "model_002",
     "name": "测试模型B",
     "type": "类型2",
     "thumbnailUrl": "https://raw.githubusercontent.com/hry033/Test/refs/heads/main/yi.jpg",
-    "addressableKey": "Assets/5.fbx"
+    "addressableKey": "Miku"
   },
   {
     "id": "model_003",
     "name": "测试模型C",
     "type": "类型1",
     "thumbnailUrl": "https://raw.githubusercontent.com/hry033/Test/refs/heads/main/logo1.png",
-    "addressableKey": "Assets/5.fbx"
+    "addressableKey": "派蒙"
   }
 ]
+
 
 
 
