@@ -4,7 +4,7 @@
     "name": "测试模型A",
     "type": "类型1",
     "thumbnailUrl": "https://raw.githubusercontent.com/hry033/Test/refs/heads/main/12d3b599a9014c086fbae2e81d7b020879f4f4f6.jpg",
-    "addressableKey": "5"
+    "addressableKey": "科幻摩托"
   },
   {
     "id": "model_002",
@@ -21,6 +21,7 @@
     "addressableKey": "派蒙"
   }
 ]
+
 
 
 
